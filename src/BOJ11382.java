@@ -8,9 +8,9 @@ public class BOJ11382
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         String[] line_1 = br.readLine().split(" ");
-        A = Integer.parseInt(line_1[0]);
-        B = Integer.parseInt(line_1[1]);
-        C = Integer.parseInt(line_1[2]);
+        A = Long.parseLong(line_1[0]);
+        B = Long.parseLong(line_1[1]);
+        C = Long.parseLong(line_1[2]);
         System.out.println(A+B+C);
     }
 }
