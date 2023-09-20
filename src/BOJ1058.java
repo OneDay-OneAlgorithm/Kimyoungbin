@@ -52,14 +52,16 @@ public class BOJ1058
 
         return cnt;
     }
-}
 
-class Node {
-    int n;
-    int depth;
+    static class Node {
+        int n;
+        int depth;
 
-    public Node(int n, int depth) {
-        this.n = n;
-        this.depth = depth;
+        public Node(int n, int depth) {
+            this.n = n;
+            this.depth = depth;
+        }
     }
 }
+
+
