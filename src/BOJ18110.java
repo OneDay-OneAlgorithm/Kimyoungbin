@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
 
-public class Main
+public class BOJ18110
 {
     static int n, exc, sum = 0;
     static int[] arr;
