@@ -5,21 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e735a338-06d3-4362-affc-dc156ce66306" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/BOJ1058.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_2023_09/BOJ1058.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BOJ11382.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_2023_09/BOJ11382.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BOJ14940.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_2023_09/BOJ14940.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BOJ15829.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_2023_12/BOJ15829.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BOJ1717.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_2023_09/BOJ1717.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BOJ18110.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_2023_12/BOJ18110.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BOJ18352.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_2023_09/BOJ18352.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BOJ1976.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_2023_09/BOJ1976.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BOJ2480.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_2023_09/BOJ2480.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BOJ25192.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_2023_09/BOJ25192.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BOJ2525.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_2023_09/BOJ2525.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BOJ25304.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_2023_12/BOJ25304.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BOJ2588.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_2023_12/BOJ2588.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BOJ28278.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_2023_10/BOJ28278.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BOJ3273.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_2023_10/BOJ3273.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B_2023_09/BOJ25192.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/B_2023_09/BOJ25192.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +90,7 @@
       <workItem from="1696254509737" duration="57000" />
       <workItem from="1696323549786" duration="94000" />
       <workItem from="1701694867361" duration="593000" />
-      <workItem from="1701956182533" duration="4421000" />
+      <workItem from="1701956182533" duration="8160000" />
     </task>
     <servers />
   </component>
