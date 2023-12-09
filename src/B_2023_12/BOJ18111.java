@@ -1,9 +1,11 @@
+package B_2023_12;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
 //풀이 방법: (가장 작은 높이 ~ 가장 큰 높이) 사이에 드는 cost와 가능 여부를 일일히 체크하고 가장 작은 것을 구한다.
-public class Main
+public class BOJ18111
 {
     static int N, M, B;
     static int max = Integer.MIN_VALUE, min = Integer.MAX_VALUE;
