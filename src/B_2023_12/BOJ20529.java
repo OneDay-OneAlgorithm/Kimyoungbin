@@ -1,3 +1,5 @@
+package B_2023_12;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -5,7 +7,7 @@ import java.util.ArrayList;
 
 // 아무리 사람이 많아도 16개, mbti 하나가 3개이상 있는건 의미가 없으므로 (16*3)C3
 // 동일한 mbti 개수는 3개까지만 세면 된다.
-public class Main
+public class BOJ20529
 {
     static int T, N;
     static int[][][][] mbti; // E-I, S-N, T-F, J-P
