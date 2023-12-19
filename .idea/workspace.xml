@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e735a338-06d3-4362-affc-dc156ce66306" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +50,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -99,7 +101,24 @@
       <workItem from="1701694867361" duration="593000" />
       <workItem from="1701956182533" duration="8160000" />
       <workItem from="1702188086916" duration="5523000" />
-      <workItem from="1702351938844" duration="900000" />
+      <workItem from="1702351938844" duration="1895000" />
+      <workItem from="1702385297580" duration="2637000" />
+      <workItem from="1702614714827" duration="275000" />
+      <workItem from="1702614994698" duration="7000" />
+      <workItem from="1702615011206" duration="1000" />
+      <workItem from="1702615016573" duration="2000" />
+      <workItem from="1702615029726" duration="3000" />
+      <workItem from="1702615044429" duration="2000" />
+      <workItem from="1702615055570" duration="6000" />
+      <workItem from="1702615064679" duration="1000" />
+      <workItem from="1702615069065" duration="1000" />
+      <workItem from="1702615078310" duration="1000" />
+      <workItem from="1702615083239" duration="3000" />
+      <workItem from="1702615155643" duration="1000" />
+      <workItem from="1702629263146" duration="1451000" />
+      <workItem from="1702716932959" duration="2193000" />
+      <workItem from="1702801971748" duration="8930000" />
+      <workItem from="1702946742392" duration="2822000" />
     </task>
     <servers />
   </component>
