@@ -5,7 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e735a338-06d3-4362-affc-dc156ce66306" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/Algo/B_2023_12/BOJ2504.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algo/P_2024_01/N진수_게임.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algo/P_2024_01/압축.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algo/P_2024_01/파일명_정렬$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Algo/P_2024_01/파일명_정렬.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/B_2024_01/BOJ13458.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algo/yet/BOJ2504.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +56,9 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -56,6 +68,7 @@
       <recent name="C:\Users\HOME\Desktop\jsmake\Kimyoungbin\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="B_2024_01" />
       <recent name="B_2023_12" />
       <recent name="" />
     </key>
@@ -116,7 +129,8 @@
       <workItem from="1702716932959" duration="2193000" />
       <workItem from="1702801971748" duration="8930000" />
       <workItem from="1702946742392" duration="2822000" />
-      <workItem from="1704167536841" duration="1689000" />
+      <workItem from="1704167536841" duration="6668000" />
+      <workItem from="1704349192044" duration="893000" />
     </task>
     <servers />
   </component>

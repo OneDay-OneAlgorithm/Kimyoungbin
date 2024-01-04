@@ -1,9 +1,10 @@
+package B_2024_01;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.Stack;
 
-public class Main
+public class BOJ13458
 {
     static int N, B, C;
     static int[] A;
