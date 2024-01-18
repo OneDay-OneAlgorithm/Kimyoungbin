@@ -1,11 +1,11 @@
+package B_2024_01;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.Arrays;
-import java.util.List;
-import java.util.stream.Collectors;
 
-public class Main
+public class BOJ18353
 {
     static int N;
     static int[] arr;
