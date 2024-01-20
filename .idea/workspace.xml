@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e735a338-06d3-4362-affc-dc156ce66306" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +60,8 @@
       <recent name="C:\Users\HOME\Desktop\jsmake\Kimyoungbin\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="yet" />
       <recent name="B_2024_01" />
+      <recent name="yet" />
       <recent name="B_2023_12" />
       <recent name="" />
     </key>
@@ -129,7 +129,8 @@
       <workItem from="1705046542614" duration="1013000" />
       <workItem from="1705123142840" duration="26000" />
       <workItem from="1705306983264" duration="710000" />
-      <workItem from="1705547876596" duration="10644000" />
+      <workItem from="1705547876596" duration="10957000" />
+      <workItem from="1705657466695" duration="6000" />
     </task>
     <servers />
   </component>
