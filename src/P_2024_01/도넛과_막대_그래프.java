@@ -7,13 +7,13 @@ import java.util.*;
 // 3. 진행중 나가는 간선이 2개인 점이 없으면 도넛, 있으면 팔자그래프이다.
 // -> 자기자신을 만나거나, 간선이 2개인점을 만나면 종료
 class 도넛과_막대_그래프 {
-    LinkedList<Integer>[] arr;
+    ArrayList<Integer>[] arr;
     int[] rst = new int[4]; // 추가점, 도넛, 막대, 8자
     int[] 들어오는간선개수 = new int[1_000_001];
     public int[] solution(int[][] edges) {
-        arr = new LinkedList[1_000_001];
+        arr = new ArrayList[1_000_001];
         for(int i=0; i<1000001; i++) {
-            arr[i] = new LinkedList<>();
+            arr[i] = new ArrayList<>();
         }
 
         for(int i=0; i<edges.length; i++) {
