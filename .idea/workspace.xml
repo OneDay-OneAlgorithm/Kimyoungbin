@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e735a338-06d3-4362-affc-dc156ce66306" name="Changes" comment="240128: 10819">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,7 +136,7 @@
       <workItem from="1705734862397" duration="170000" />
       <workItem from="1706421257218" duration="3515000" />
       <workItem from="1706428926934" duration="1810000" />
-      <workItem from="1707487736075" duration="3403000" />
+      <workItem from="1707487736075" duration="6188000" />
     </task>
     <task id="LOCAL-00001" summary="240120: 가장 많이 받은 선물">
       <option name="closed" value="true" />
