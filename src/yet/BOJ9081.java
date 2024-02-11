@@ -1,10 +1,14 @@
-import java.io.*;
-import java.util.*;
+package yet;
+
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.Arrays;
 
 // 순열X -> Ad hoc
 // 문제 1. 동일한 단어가 여러개 존재하는 경우 (ex.HELLO) -> 이전과 비교해야되나?
 // 문제 2. 단어 길이가 최대 99이므로 99! -> 시간초과
-public class Main
+public class BOJ9081
 {
     static int T;
     static boolean flag;
