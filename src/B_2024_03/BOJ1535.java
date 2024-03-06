@@ -1,7 +1,10 @@
-import java.io.*;
-import java.util.*;
+package B_2024_03;
 
-public class Main
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+
+public class BOJ1535
 {
     static int N;
     static int[] L, J; // 피로도, 기쁨
