@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e735a338-06d3-4362-affc-dc156ce66306" name="Changes" comment="240306: 1535">
+    <list default="true" id="e735a338-06d3-4362-affc-dc156ce66306" name="Changes" comment="240307: 9657">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
@@ -69,7 +69,20 @@
       <recent name="B_2023_12" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="BOJ9658" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B_2024_03.BOJ9658" />
+      <module name="Algo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="B_2024_03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="Algo" />
@@ -80,6 +93,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.BOJ9658" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +159,7 @@
       <workItem from="1707967865320" duration="1833000" />
       <workItem from="1708324644357" duration="2769000" />
       <workItem from="1708347323071" duration="1836000" />
-      <workItem from="1709710369106" duration="18410000" />
+      <workItem from="1709710369106" duration="21747000" />
     </task>
     <task id="LOCAL-00001" summary="240120: 가장 많이 받은 선물">
       <option name="closed" value="true" />
@@ -211,7 +225,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709733217425</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="240306: 9656">
+      <option name="closed" value="true" />
+      <created>1709875578014</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709875578014</updated>
+    </task>
+    <task id="LOCAL-00010" summary="240307: 9657">
+      <option name="closed" value="true" />
+      <created>1709875590946</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1709875590946</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,6 +267,8 @@
     <MESSAGE value="240212: 9655" />
     <MESSAGE value="240306: 7562" />
     <MESSAGE value="240306: 1535" />
-    <option name="LAST_COMMIT_MESSAGE" value="240306: 1535" />
+    <MESSAGE value="240306: 9656" />
+    <MESSAGE value="240307: 9657" />
+    <option name="LAST_COMMIT_MESSAGE" value="240307: 9657" />
   </component>
 </project>
