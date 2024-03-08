@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e735a338-06d3-4362-affc-dc156ce66306" name="Changes" comment="240307: 9657">
+    <list default="true" id="e735a338-06d3-4362-affc-dc156ce66306" name="Changes" comment="240309: 9659">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
@@ -159,7 +159,7 @@
       <workItem from="1707967865320" duration="1833000" />
       <workItem from="1708324644357" duration="2769000" />
       <workItem from="1708347323071" duration="1836000" />
-      <workItem from="1709710369106" duration="21747000" />
+      <workItem from="1709710369106" duration="29347000" />
     </task>
     <task id="LOCAL-00001" summary="240120: 가장 많이 받은 선물">
       <option name="closed" value="true" />
@@ -241,7 +241,23 @@
       <option name="project" value="LOCAL" />
       <updated>1709875590946</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="240309: 9658">
+      <option name="closed" value="true" />
+      <created>1709915621397</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1709915621397</updated>
+    </task>
+    <task id="LOCAL-00012" summary="240309: 9659">
+      <option name="closed" value="true" />
+      <created>1709915631717</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1709915631717</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,6 +285,8 @@
     <MESSAGE value="240306: 1535" />
     <MESSAGE value="240306: 9656" />
     <MESSAGE value="240307: 9657" />
-    <option name="LAST_COMMIT_MESSAGE" value="240307: 9657" />
+    <MESSAGE value="240309: 9658" />
+    <MESSAGE value="240309: 9659" />
+    <option name="LAST_COMMIT_MESSAGE" value="240309: 9659" />
   </component>
 </project>

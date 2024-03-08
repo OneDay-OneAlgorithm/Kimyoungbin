@@ -1,7 +1,11 @@
-import java.io.*;
-import java.util.*;
+package B_2024_03;
 
-public class Main
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.LinkedList;
+
+public class BOJ1068
 {
     static int N, deleteN;
     static LinkedList<Integer>[] list; // 자식노드 정보
