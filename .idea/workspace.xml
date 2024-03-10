@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e735a338-06d3-4362-affc-dc156ce66306" name="Changes" comment="240309: 1068">
+    <list default="true" id="e735a338-06d3-4362-affc-dc156ce66306" name="Changes" comment="240309: 14921">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -157,7 +159,7 @@
       <workItem from="1707967865320" duration="1833000" />
       <workItem from="1708324644357" duration="2769000" />
       <workItem from="1708347323071" duration="1836000" />
-      <workItem from="1709710369106" duration="34694000" />
+      <workItem from="1709710369106" duration="43207000" />
     </task>
     <task id="LOCAL-00001" summary="240120: 가장 많이 받은 선물">
       <option name="closed" value="true" />
@@ -263,7 +265,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709926378944</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="240309: 14921">
+      <option name="closed" value="true" />
+      <created>1709969663312</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1709969663312</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -294,6 +304,7 @@
     <MESSAGE value="240309: 9658" />
     <MESSAGE value="240309: 9659" />
     <MESSAGE value="240309: 1068" />
-    <option name="LAST_COMMIT_MESSAGE" value="240309: 1068" />
+    <MESSAGE value="240309: 14921" />
+    <option name="LAST_COMMIT_MESSAGE" value="240309: 14921" />
   </component>
 </project>
