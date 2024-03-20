@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e735a338-06d3-4362-affc-dc156ce66306" name="Changes" comment="240313: 1720">
+    <list default="true" id="e735a338-06d3-4362-affc-dc156ce66306" name="Changes" comment="240320: 21758">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/Main$Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algo/Main$Fire.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algo/Main$Sangkun.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -57,6 +58,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/B_2024_01" />
@@ -64,9 +68,9 @@
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="B_2024_03" />
+      <recent name="yet" />
       <recent name="B_2024_02" />
       <recent name="B_2024_01" />
-      <recent name="yet" />
       <recent name="B_2023_12" />
     </key>
   </component>
@@ -190,7 +194,9 @@
       <workItem from="1708347323071" duration="1836000" />
       <workItem from="1709710369106" duration="50431000" />
       <workItem from="1710249863074" duration="25122000" />
-      <workItem from="1710685827534" duration="4556000" />
+      <workItem from="1710685827534" duration="17983000" />
+      <workItem from="1710778615280" duration="5854000" />
+      <workItem from="1710913312735" duration="25165000" />
     </task>
     <task id="LOCAL-00001" summary="240120: 가장 많이 받은 선물">
       <option name="closed" value="true" />
@@ -360,7 +366,71 @@
       <option name="project" value="LOCAL" />
       <updated>1710350244017</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="240318: 1863">
+      <option name="closed" value="true" />
+      <created>1710761285644</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1710761285644</updated>
+    </task>
+    <task id="LOCAL-00023" summary="240318: 1083">
+      <option name="closed" value="true" />
+      <created>1710761293653</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1710761293653</updated>
+    </task>
+    <task id="LOCAL-00024" summary="240319: 3078">
+      <option name="closed" value="true" />
+      <created>1710783529832</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1710783529832</updated>
+    </task>
+    <task id="LOCAL-00025" summary="240319: 1283">
+      <option name="closed" value="true" />
+      <created>1710832339585</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1710832339585</updated>
+    </task>
+    <task id="LOCAL-00026" summary="240320: 1092">
+      <option name="closed" value="true" />
+      <created>1710928397068</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1710928397068</updated>
+    </task>
+    <task id="LOCAL-00027" summary="240320: 13335">
+      <option name="closed" value="true" />
+      <created>1710932277748</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1710932277748</updated>
+    </task>
+    <task id="LOCAL-00028" summary="240320: 12865">
+      <option name="closed" value="true" />
+      <created>1710934337671</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1710934337671</updated>
+    </task>
+    <task id="LOCAL-00029" summary="240320: 21758">
+      <option name="closed" value="true" />
+      <created>1710940913545</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1710940913545</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -378,10 +448,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="240120: 가장 많이 받은 선물" />
-    <MESSAGE value="240120: 도넛과 막대 그래프" />
-    <MESSAGE value="240128: 1026" />
-    <MESSAGE value="240128: 1527" />
     <MESSAGE value="240128: 10819" />
     <MESSAGE value="240212: 9655" />
     <MESSAGE value="240306: 7562" />
@@ -399,6 +465,14 @@
     <MESSAGE value="240313: 1293" />
     <MESSAGE value="240313: 1793" />
     <MESSAGE value="240313: 1720" />
-    <option name="LAST_COMMIT_MESSAGE" value="240313: 1720" />
+    <MESSAGE value="240318: 1863" />
+    <MESSAGE value="240318: 1083" />
+    <MESSAGE value="240319: 3078" />
+    <MESSAGE value="240319: 1283" />
+    <MESSAGE value="240320: 1092" />
+    <MESSAGE value="240320: 13335" />
+    <MESSAGE value="240320: 12865" />
+    <MESSAGE value="240320: 21758" />
+    <option name="LAST_COMMIT_MESSAGE" value="240320: 21758" />
   </component>
 </project>
