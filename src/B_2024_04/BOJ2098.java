@@ -24,7 +24,7 @@ public class BOJ2098 {
         }
         dp = new int[N][(1<<N)-1]; // 2^n번 자리가 n번 도시를 방문했는지 여부를 나타낸다
         for(int i=0; i<N; i++) {
-            Arrays.fill(dp[i], -1); // 1111 1111 ....
+            Arrays.fill(dp[i], -1); // 초기화
         }
 
         bw.write(dfs(0, 1)+"\n"); // 어떤 도시부터 순회해도 답을 구할 수 있다
@@ -39,6 +39,7 @@ public class BOJ2098 {
             return W[cur][0];
         }
 
+        // 초기값이 아닌 경우 - 중복탐색 방지
         if(dp[cur][visited] != -1) {
             return dp[cur][visited];
         }
