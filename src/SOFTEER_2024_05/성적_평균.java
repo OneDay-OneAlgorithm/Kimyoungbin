@@ -1,7 +1,6 @@
-package S_2024_05;
+package SOFTEER_2024_05;
 
 import java.io.*;
-import java.util.*;
 
 public class 성적_평균 {
     static int N, K; // 학생수, 구간수

@@ -1,7 +1,6 @@
-package S_2024_05;
+package SOFTEER_2024_05;
 
 import java.io.*;
-import java.util.*;
 
 public class X_marks_the_Spot {
     static int N;

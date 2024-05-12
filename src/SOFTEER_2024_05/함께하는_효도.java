@@ -1,7 +1,6 @@
-package S_2024_05;
+package SOFTEER_2024_05;
 
 import java.io.*;
-import java.util.*;
 
 // m명의 친구, n*n크기 땅, 3초 제한
 // 열매 수확량의 최대값

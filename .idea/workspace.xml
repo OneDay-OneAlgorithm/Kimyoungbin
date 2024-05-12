@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e735a338-06d3-4362-affc-dc156ce66306" name="Changes" comment="240320: 21758">
+    <list default="true" id="e735a338-06d3-4362-affc-dc156ce66306" name="Changes" comment="[투 포인터, Idea] 2473">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/Main$Fire.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Algo/Main$Sangkun.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Algo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -25,6 +25,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;eckrin&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="75da370f-8c63-4211-b475-6cc55af4508f" />
+        <option name="url" value="https://github.com/OneDay-OneAlgorithm/Kimyoungbin.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -66,15 +80,18 @@
       <recent name="$PROJECT_DIR$/src/B_2024_01" />
       <recent name="C:\Users\HOME\Desktop\jsmake\Kimyoungbin\src" />
     </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="B_2024_04" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="B_2024_03" />
+      <recent name="B_2024_05" />
       <recent name="yet" />
+      <recent name="B_2024_04" />
+      <recent name="B_2024_03" />
       <recent name="B_2024_02" />
-      <recent name="B_2024_01" />
-      <recent name="B_2023_12" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="BOJ1720" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="B_2024_03.BOJ1720" />
       <module name="Algo" />
@@ -88,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ1793" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B_2024_03.BOJ1793" />
+    <configuration name="BOJ18310" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="B_2024_04.BOJ18310" />
       <module name="Algo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="B_2024_03.*" />
+          <option name="PATTERN" value="B_2024_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ9658" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="B_2024_03.BOJ9658" />
+    <configuration name="BOJ1939_ans" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="yet.BOJ1939_ans" />
       <module name="Algo" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="B_2024_03.*" />
+          <option name="PATTERN" value="yet.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +138,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Solution" />
+      <module name="Algo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.BOJ1939_ans" />
+        <item itemvalue="Application.BOJ18310" />
         <item itemvalue="Application.BOJ1720" />
-        <item itemvalue="Application.BOJ1793" />
-        <item itemvalue="Application.BOJ9658" />
       </list>
     </recent_temporary>
   </component>
@@ -197,222 +222,24 @@
       <workItem from="1710685827534" duration="17983000" />
       <workItem from="1710778615280" duration="5854000" />
       <workItem from="1710913312735" duration="25165000" />
-    </task>
-    <task id="LOCAL-00001" summary="240120: 가장 많이 받은 선물">
-      <option name="closed" value="true" />
-      <created>1705734954255</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1705734954255</updated>
-    </task>
-    <task id="LOCAL-00002" summary="240120: 도넛과 막대 그래프">
-      <option name="closed" value="true" />
-      <created>1705734961010</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1705734961010</updated>
-    </task>
-    <task id="LOCAL-00003" summary="240128: 1026">
-      <option name="closed" value="true" />
-      <created>1706430085735</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1706430085735</updated>
-    </task>
-    <task id="LOCAL-00004" summary="240128: 1527">
-      <option name="closed" value="true" />
-      <created>1706430094643</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1706430094643</updated>
-    </task>
-    <task id="LOCAL-00005" summary="240128: 10819">
-      <option name="closed" value="true" />
-      <created>1706430121748</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1706430121748</updated>
-    </task>
-    <task id="LOCAL-00006" summary="240212: 9655">
-      <option name="closed" value="true" />
-      <created>1707665151335</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1707665151335</updated>
-    </task>
-    <task id="LOCAL-00007" summary="240306: 7562">
-      <option name="closed" value="true" />
-      <created>1709733211465</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1709733211465</updated>
-    </task>
-    <task id="LOCAL-00008" summary="240306: 1535">
-      <option name="closed" value="true" />
-      <created>1709733217425</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1709733217425</updated>
-    </task>
-    <task id="LOCAL-00009" summary="240306: 9656">
-      <option name="closed" value="true" />
-      <created>1709875578014</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1709875578014</updated>
-    </task>
-    <task id="LOCAL-00010" summary="240307: 9657">
-      <option name="closed" value="true" />
-      <created>1709875590946</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1709875590946</updated>
-    </task>
-    <task id="LOCAL-00011" summary="240309: 9658">
-      <option name="closed" value="true" />
-      <created>1709915621397</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1709915621397</updated>
-    </task>
-    <task id="LOCAL-00012" summary="240309: 9659">
-      <option name="closed" value="true" />
-      <created>1709915631717</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1709915631717</updated>
-    </task>
-    <task id="LOCAL-00013" summary="240309: 1068">
-      <option name="closed" value="true" />
-      <created>1709926378944</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1709926378944</updated>
-    </task>
-    <task id="LOCAL-00014" summary="240309: 14921">
-      <option name="closed" value="true" />
-      <created>1709969663312</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1709969663312</updated>
-    </task>
-    <task id="LOCAL-00015" summary="240310: 16472">
-      <option name="closed" value="true" />
-      <created>1710058022500</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1710058022500</updated>
-    </task>
-    <task id="LOCAL-00016" summary="240310: 16472-2">
-      <option name="closed" value="true" />
-      <created>1710064326987</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1710064326987</updated>
-    </task>
-    <task id="LOCAL-00017" summary="240312: 20040">
-      <option name="closed" value="true" />
-      <created>1710255467555</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1710255467555</updated>
-    </task>
-    <task id="LOCAL-00018" summary="240313: 1213">
-      <option name="closed" value="true" />
-      <created>1710260836712</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1710260836712</updated>
-    </task>
-    <task id="LOCAL-00019" summary="240313: 1293">
-      <option name="closed" value="true" />
-      <created>1710350218730</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1710350218730</updated>
-    </task>
-    <task id="LOCAL-00020" summary="240313: 1793">
-      <option name="closed" value="true" />
-      <created>1710350240477</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1710350240477</updated>
-    </task>
-    <task id="LOCAL-00021" summary="240313: 1720">
-      <option name="closed" value="true" />
-      <created>1710350244017</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1710350244017</updated>
-    </task>
-    <task id="LOCAL-00022" summary="240318: 1863">
-      <option name="closed" value="true" />
-      <created>1710761285644</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1710761285644</updated>
-    </task>
-    <task id="LOCAL-00023" summary="240318: 1083">
-      <option name="closed" value="true" />
-      <created>1710761293653</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1710761293653</updated>
-    </task>
-    <task id="LOCAL-00024" summary="240319: 3078">
-      <option name="closed" value="true" />
-      <created>1710783529832</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1710783529832</updated>
-    </task>
-    <task id="LOCAL-00025" summary="240319: 1283">
-      <option name="closed" value="true" />
-      <created>1710832339585</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1710832339585</updated>
-    </task>
-    <task id="LOCAL-00026" summary="240320: 1092">
-      <option name="closed" value="true" />
-      <created>1710928397068</created>
-      <option name="number" value="00026" />
-      <option name="presentableId" value="LOCAL-00026" />
-      <option name="project" value="LOCAL" />
-      <updated>1710928397068</updated>
-    </task>
-    <task id="LOCAL-00027" summary="240320: 13335">
-      <option name="closed" value="true" />
-      <created>1710932277748</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1710932277748</updated>
+      <workItem from="1713526187596" duration="798000" />
+      <workItem from="1713533523572" duration="3591000" />
+      <workItem from="1713537146029" duration="143000" />
+      <workItem from="1713706130543" duration="2516000" />
+      <workItem from="1713757439635" duration="2751000" />
+      <workItem from="1713799343245" duration="4525000" />
+      <workItem from="1713932238717" duration="1550000" />
+      <workItem from="1714029663857" duration="2954000" />
+      <workItem from="1714100163807" duration="9921000" />
+      <workItem from="1714133312797" duration="9000" />
+      <workItem from="1714133542996" duration="8628000" />
+      <workItem from="1714361214810" duration="8799000" />
+      <workItem from="1714437373587" duration="3778000" />
+      <workItem from="1714628855624" duration="8287000" />
+      <workItem from="1714735592963" duration="18302000" />
+      <workItem from="1715065972155" duration="56239000" />
+      <workItem from="1715405134928" duration="5460000" />
+      <workItem from="1715487054533" duration="3516000" />
     </task>
     <task id="LOCAL-00028" summary="240320: 12865">
       <option name="closed" value="true" />
@@ -430,7 +257,383 @@
       <option name="project" value="LOCAL" />
       <updated>1710940913545</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="[Graph-위상정렬] 1766">
+      <option name="closed" value="true" />
+      <created>1712855429795</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1712855429795</updated>
+    </task>
+    <task id="LOCAL-00031" summary="[Graph-위상정렬] 1766-2&#10;&#10;- PriorityQueue 활용">
+      <option name="closed" value="true" />
+      <created>1712855463562</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1712855463562</updated>
+    </task>
+    <task id="LOCAL-00032" summary="[Graph-UnionFind] 4195">
+      <option name="closed" value="true" />
+      <created>1712923106116</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1712923106116</updated>
+    </task>
+    <task id="LOCAL-00033" summary="[Greedy] 1461">
+      <option name="closed" value="true" />
+      <created>1713024813048</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1713024813048</updated>
+    </task>
+    <task id="LOCAL-00034" summary="[Impl-Simulation] 17143">
+      <option name="closed" value="true" />
+      <created>1713029349708</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1713029349708</updated>
+    </task>
+    <task id="LOCAL-00035" summary="[Math] 15894">
+      <option name="closed" value="true" />
+      <created>1713113521623</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1713113521623</updated>
+    </task>
+    <task id="LOCAL-00036" summary="[Math] 27323">
+      <option name="closed" value="true" />
+      <created>1713113540089</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1713113540089</updated>
+    </task>
+    <task id="LOCAL-00037" summary="[Math] 15894">
+      <option name="closed" value="true" />
+      <created>1713113546644</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1713113546644</updated>
+    </task>
+    <task id="LOCAL-00038" summary="[Math] 9063">
+      <option name="closed" value="true" />
+      <created>1713113553348</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1713113553348</updated>
+    </task>
+    <task id="LOCAL-00039" summary="[Math] 10101">
+      <option name="closed" value="true" />
+      <created>1713113561760</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1713113561760</updated>
+    </task>
+    <task id="LOCAL-00040" summary="[Math] 5073">
+      <option name="closed" value="true" />
+      <created>1713113572545</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1713113572545</updated>
+    </task>
+    <task id="LOCAL-00041" summary="[HashSet] 22233">
+      <option name="closed" value="true" />
+      <created>1713278336683</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1713278336683</updated>
+    </task>
+    <task id="LOCAL-00042" summary="[Impl-Simulation] 14891">
+      <option name="closed" value="true" />
+      <created>1713364176315</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1713364176315</updated>
+    </task>
+    <task id="LOCAL-00043" summary="[Greedy, Idea] 2437">
+      <option name="closed" value="true" />
+      <created>1713499964340</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1713499964340</updated>
+    </task>
+    <task id="LOCAL-00044" summary="[Greedy, Idea] 18310">
+      <option name="closed" value="true" />
+      <created>1713537269492</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1713537269492</updated>
+    </task>
+    <task id="LOCAL-00045" summary="[Graph-UnionFind] 17352">
+      <option name="closed" value="true" />
+      <created>1713708565476</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1713708565476</updated>
+    </task>
+    <task id="LOCAL-00046" summary="[Graph-MST] 17352">
+      <option name="closed" value="true" />
+      <created>1713759896537</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1713759896537</updated>
+    </task>
+    <task id="LOCAL-00047" summary="[Graph-MST] 1922">
+      <option name="closed" value="true" />
+      <created>1713759936172</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1713759936172</updated>
+    </task>
+    <task id="LOCAL-00048" summary="[Graph-BFS] 6118">
+      <option name="closed" value="true" />
+      <created>1713852713442</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1713852713442</updated>
+    </task>
+    <task id="LOCAL-00049" summary="[Math] 1500">
+      <option name="closed" value="true" />
+      <created>1713933936286</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1713933936286</updated>
+    </task>
+    <task id="LOCAL-00050" summary="[DP] 2056&#10;&#10;- 이전 작업만 검사하면 되고, 이전 작업이 100개 이하라는 조건이 있어서 O(10000*100)에 DP로 풀 수 있다.">
+      <option name="closed" value="true" />
+      <created>1714032608546</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1714032608547</updated>
+    </task>
+    <task id="LOCAL-00051" summary="[Graph+위상정렬] 9470&#10;&#10;- 위상정렬에 strahler 순서 계산을 위한 로직을 추가해야 함&#10;- 들어오는 강으로부터 다음 strahler값을 계산하는 과정에서 초기화 관련 문제 발생 (주석)">
+      <option name="closed" value="true" />
+      <created>1714106501936</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1714106501936</updated>
+    </task>
+    <task id="LOCAL-00052" summary="[Graph+위상정렬] 9470_2&#10;&#10;- 9470 코드 개선&#10;- queue 사용&#10;- maxStrahler, maxStrahlerCount값 수정하여 불필요한 분기 제거">
+      <option name="closed" value="true" />
+      <created>1714109257146</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1714109257146</updated>
+    </task>
+    <task id="LOCAL-00053" summary="[Binary Search] 2792&#10;&#10;- 매개변수 탐색">
+      <option name="closed" value="true" />
+      <created>1714138059884</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1714138059884</updated>
+    </task>
+    <task id="LOCAL-00054" summary="[LIS+Binary Search] 12738">
+      <option name="closed" value="true" />
+      <created>1714312565514</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1714312565514</updated>
+    </task>
+    <task id="LOCAL-00055" summary="[BFS] 4179">
+      <option name="closed" value="true" />
+      <created>1714373325442</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1714373325442</updated>
+    </task>
+    <task id="LOCAL-00056" summary="[Math] 11021">
+      <option name="closed" value="true" />
+      <created>1714438005301</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1714438005302</updated>
+    </task>
+    <task id="LOCAL-00057" summary="[Math] 11022">
+      <option name="closed" value="true" />
+      <created>1714438009547</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1714438009547</updated>
+    </task>
+    <task id="LOCAL-00058" summary="[PriorityQueue] 19598">
+      <option name="closed" value="true" />
+      <created>1714439099193</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1714439099193</updated>
+    </task>
+    <task id="LOCAL-00059" summary="[MST] 4386">
+      <option name="closed" value="true" />
+      <created>1714736518454</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1714736518454</updated>
+    </task>
+    <task id="LOCAL-00060" summary="[Set] 1337">
+      <option name="closed" value="true" />
+      <created>1714902944788</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1714902944788</updated>
+    </task>
+    <task id="LOCAL-00061" summary="[Graph-위상정렬] 14567">
+      <option name="closed" value="true" />
+      <created>1714908500384</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1714908500384</updated>
+    </task>
+    <task id="LOCAL-00062" summary="[투 포인터] 15961">
+      <option name="closed" value="true" />
+      <created>1714979438684</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1714979438684</updated>
+    </task>
+    <task id="LOCAL-00063" summary="[Impl-String] X marks the Spot">
+      <option name="closed" value="true" />
+      <created>1714984439049</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1714984439049</updated>
+    </task>
+    <task id="LOCAL-00064" summary="[Impl] 진정한 효도">
+      <option name="closed" value="true" />
+      <created>1714985199132</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1714985199132</updated>
+    </task>
+    <task id="LOCAL-00065" summary="[BFS] 1261">
+      <option name="closed" value="true" />
+      <created>1715072557168</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1715072557168</updated>
+    </task>
+    <task id="LOCAL-00066" summary="[누적합, 구간합] 성적 평균">
+      <option name="closed" value="true" />
+      <created>1715079626790</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1715079626790</updated>
+    </task>
+    <task id="LOCAL-00067" summary="[Graph-BFS] 2468">
+      <option name="closed" value="true" />
+      <created>1715145644134</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1715145644134</updated>
+    </task>
+    <task id="LOCAL-00068" summary="[Graph-DFS] 2468">
+      <option name="closed" value="true" />
+      <created>1715145730934</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1715145730934</updated>
+    </task>
+    <task id="LOCAL-00069" summary="[Graph-DFS] 2583">
+      <option name="closed" value="true" />
+      <created>1715147759028</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1715147759029</updated>
+    </task>
+    <task id="LOCAL-00070" summary="[Graph-DFS] 함께하는 효도">
+      <option name="closed" value="true" />
+      <created>1715156142528</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1715156142528</updated>
+    </task>
+    <task id="LOCAL-00071" summary="[UnionFind, Idea] 30870">
+      <option name="closed" value="true" />
+      <created>1715234216496</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1715234216496</updated>
+    </task>
+    <task id="LOCAL-00072" summary="[BFS+Binary Search] 1939">
+      <option name="closed" value="true" />
+      <created>1715324221319</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1715324221320</updated>
+    </task>
+    <task id="LOCAL-00073" summary="[투 포인터] 22862">
+      <option name="closed" value="true" />
+      <created>1715359595326</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1715359595326</updated>
+    </task>
+    <task id="LOCAL-00074" summary="[투 포인터] 7795">
+      <option name="closed" value="true" />
+      <created>1715406014737</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1715406014737</updated>
+    </task>
+    <task id="LOCAL-00075" summary="[투 포인터] 2230">
+      <option name="closed" value="true" />
+      <created>1715407200059</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1715407200059</updated>
+    </task>
+    <task id="LOCAL-00076" summary="[투 포인터, Idea] 2473">
+      <option name="closed" value="true" />
+      <created>1715410592551</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1715410592552</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -448,31 +651,31 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="240128: 10819" />
-    <MESSAGE value="240212: 9655" />
-    <MESSAGE value="240306: 7562" />
-    <MESSAGE value="240306: 1535" />
-    <MESSAGE value="240306: 9656" />
-    <MESSAGE value="240307: 9657" />
-    <MESSAGE value="240309: 9658" />
-    <MESSAGE value="240309: 9659" />
-    <MESSAGE value="240309: 1068" />
-    <MESSAGE value="240309: 14921" />
-    <MESSAGE value="240310: 16472" />
-    <MESSAGE value="240310: 16472-2" />
-    <MESSAGE value="240312: 20040" />
-    <MESSAGE value="240313: 1213" />
-    <MESSAGE value="240313: 1293" />
-    <MESSAGE value="240313: 1793" />
-    <MESSAGE value="240313: 1720" />
-    <MESSAGE value="240318: 1863" />
-    <MESSAGE value="240318: 1083" />
-    <MESSAGE value="240319: 3078" />
-    <MESSAGE value="240319: 1283" />
-    <MESSAGE value="240320: 1092" />
-    <MESSAGE value="240320: 13335" />
-    <MESSAGE value="240320: 12865" />
-    <MESSAGE value="240320: 21758" />
-    <option name="LAST_COMMIT_MESSAGE" value="240320: 21758" />
+    <MESSAGE value="[Graph+위상정렬] 9470_2&#10;&#10;- 9470 코드 개선&#10;- queue 사용&#10;- maxStrahler, maxStrahlerCount값 수정하여 불필요한 분기 제거" />
+    <MESSAGE value="[Binary Search] 2792&#10;&#10;- 매개변수 탐색" />
+    <MESSAGE value="[LIS+Binary Search] 12738" />
+    <MESSAGE value="[BFS] 4179" />
+    <MESSAGE value="[Math] 11021" />
+    <MESSAGE value="[Math] 11022" />
+    <MESSAGE value="[PriorityQueue] 19598" />
+    <MESSAGE value="[MST] 4386" />
+    <MESSAGE value="[Set] 1337" />
+    <MESSAGE value="[Graph-위상정렬] 14567" />
+    <MESSAGE value="[투 포인터] 15961" />
+    <MESSAGE value="[Impl-String] X marks the Spot" />
+    <MESSAGE value="[Impl] 진정한 효도" />
+    <MESSAGE value="[BFS] 1261" />
+    <MESSAGE value="[누적합, 구간합] 성적 평균" />
+    <MESSAGE value="[Graph-BFS] 2468" />
+    <MESSAGE value="[Graph-DFS] 2468" />
+    <MESSAGE value="[Graph-DFS] 2583" />
+    <MESSAGE value="[Graph-DFS] 함께하는 효도" />
+    <MESSAGE value="[UnionFind, Idea] 30870" />
+    <MESSAGE value="[BFS+Binary Search] 1939" />
+    <MESSAGE value="[투 포인터] 22862" />
+    <MESSAGE value="[투 포인터] 7795" />
+    <MESSAGE value="[투 포인터] 2230" />
+    <MESSAGE value="[투 포인터, Idea] 2473" />
+    <option name="LAST_COMMIT_MESSAGE" value="[투 포인터, Idea] 2473" />
   </component>
 </project>

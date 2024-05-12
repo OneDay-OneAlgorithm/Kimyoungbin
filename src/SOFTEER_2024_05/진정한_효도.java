@@ -1,7 +1,6 @@
-package S_2024_05;
+package SOFTEER_2024_05;
 
 import java.io.*;
-import java.util.*;
 
 public class 진정한_효도 {
     static int rst = Integer.MAX_VALUE;
