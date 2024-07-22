@@ -6,6 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Stack;
 
 // stack+idea (오큰수, 같은수로 만들기 등)
+// 기존에 스택에 들어있던 수(숫자 1개)와, 스택에 새로 넣은 수(숫자 개수)를 구분하기 위해서 기존 스택의 수는 X로 명명
 public class BOJ1662 {
     static String[] input;
     static Stack<String> stack = new Stack<>();
