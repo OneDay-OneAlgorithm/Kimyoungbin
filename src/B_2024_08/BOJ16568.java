@@ -29,23 +29,23 @@ public class BOJ16568 {
     private static void bfs() {
         // init
         queue = new LinkedList<>();
-        queue.add(new Info(N+1, 0));
+        queue.add(new Info(N+1, 0)); // 한길이 앞에 N명이 있으므로, 1부터 시작한다고 가정시 한길이는 N+1에 있다.
         visited[N+1] = true;
 
         // search
         while(!queue.isEmpty()) {
             Info cur = queue.remove();
 
-            // 영혼을 받고
+            // 영혼을 받은 사람이(맨 앞) 한길이인지 확인하고
             if(cur.loc==1) {
                 System.out.println(cur.time);
                 return;
             }
 
-            // 새치기를 하고
+            // 3가지 방법으로 새치기를 하고
             for(int i=0; i<3; i++) {
                 int next = cur.loc-mov[i];
-                next--;
+                next--; // 한명이 빠지니까 한길이 위치를 1 감소시켜준다.
 
                 if(0<next && !visited[next]) {
                     visited[next] = true;
